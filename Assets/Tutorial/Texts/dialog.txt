@@ -1,0 +1,15 @@
+Hello!
+Just by looking at you, I can tell you're new aren't you?
+Don't worry, I'll guide you through the what's and how's of this place.
+The point of the game is to survive the incoming waves of enemies.
+You can do this by building towers on empty building slots.
+_tower_Try it now!
+_gold_Good! As you can see, this took a chunk off your gold.
+_gold_Building defense towers consumes your gold. But don't worry, killing enemies will get you some back.
+_wave_Enemies come in waves. You can check the current wave number there in the arrow.
+_health_Every time an enemy reaches your tower, you lose health.
+_health_If it reaches zero, you lose!
+I'll have some of our man run a practise round for you. Let's see how you do.
+Set up your defenses in the way you like best.
+_nextwave_When you're ready, click this button to call the next wave.
+Good luck!
